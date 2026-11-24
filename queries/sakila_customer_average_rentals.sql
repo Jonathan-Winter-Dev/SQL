@@ -1,9 +1,3 @@
-/*
- * Show the customer's full name
- * Show the total number of rentals they have made
- * Show the average rental count across all customers
- * `Only return customers who have rented more than the average
- */ 
 
 
 WITH rental_count AS (
